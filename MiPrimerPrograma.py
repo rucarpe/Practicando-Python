@@ -1,0 +1,6 @@
+nombreDeUsuario = input("¿Cuál es tu nombre?")
+print (nombreDeUsuario)
+numeros = (22, 15, 44, 107)
+print ("¿Qué número es mayor?")
+mayor = max(numeros)
+print (mayor)
