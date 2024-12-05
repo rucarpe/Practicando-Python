@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ceb9879-2391-463f-8569-4743d465a606" name="Changes" comment="Mi primero programa con Python del curso de Nate Gentile" />
+    <list default="true" id="1ceb9879-2391-463f-8569-4743d465a606" name="Changes" comment="Introducción a los f-strings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rucarpe"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/rucarpe/Practicando-Python.git",
     "accountId": "054bbcff-5104-47ee-b02f-d08d3617bfbf"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MiPrimerPrograma.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -79,11 +88,46 @@
       <option name="project" value="LOCAL" />
       <updated>1733415125697</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mi primer programa con Python del curso de Nate Gentile">
+      <option name="closed" value="true" />
+      <created>1733415173120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733415173120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mi primer programa con Python del curso de Nate Gentile">
+      <option name="closed" value="true" />
+      <created>1733416754779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733416754779</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mi primer programa con Python del curso de Nate Gentile">
+      <option name="closed" value="true" />
+      <created>1733416806760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733416806760</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Introducción a los f-strings">
+      <option name="closed" value="true" />
+      <created>1733416873522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733416873522</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mi primero programa con Python del curso de Nate Gentile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mi primero programa con Python del curso de Nate Gentile" />
+    <MESSAGE value="Intoducción a los f-strings" />
+    <MESSAGE value="Mi primer programa con Python del curso de Nate Gentile" />
+    <MESSAGE value="Introducción a los f-strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introducción a los f-strings" />
   </component>
 </project>
