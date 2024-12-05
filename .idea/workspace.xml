@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ceb9879-2391-463f-8569-4743d465a606" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PracticandoPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerPrograma.py" afterDir="false" />
-    </list>
+    <list default="true" id="1ceb9879-2391-463f-8569-4743d465a606" name="Changes" comment="Mi primero programa con Python del curso de Nate Gentile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rucarpe/Practicando-Python.git",
+    "accountId": "054bbcff-5104-47ee-b02f-d08d3617bfbf"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -40,9 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.MiPrimerPrograma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
@@ -62,6 +63,27 @@
       <option name="presentableId" value="Default" />
       <updated>1733345662140</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mi primero programa con Python del curso de Nate Gentile">
+      <option name="closed" value="true" />
+      <created>1733415010931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733415010931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mi primero programa con Python del curso de Nate Gentile">
+      <option name="closed" value="true" />
+      <created>1733415125697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733415125697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mi primero programa con Python del curso de Nate Gentile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mi primero programa con Python del curso de Nate Gentile" />
   </component>
 </project>
